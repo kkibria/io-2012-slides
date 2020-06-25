@@ -1,5 +1,12 @@
 <h1><img src="images/io2012_logo.png"> HTML5 Slide Template</h1>
 
+## Introduction
+Watch starter video, [Google I/O 2012 HTML5 Slide Deck](https://youtu.be/WRvECXyWj80).
+If you prefer to author in Markdown, there's also a handy script and examples of how.
+
+Support: * Chrome, FF, Safari 5.1+ * iOS 4.3+, Chrome for Android
+Technology used: * Compass/ SaSS * flexbox (slide layouts) * transitions/transforms/animations * RequireJS * window.postMessage() for speaker mode
+
 ## Configuring the slides
 
 Much of the deck is customized by changing the settings in [`slide_config.js`](slide_config.js).
@@ -80,3 +87,5 @@ Presenter mode is sticky, so refreshing the page will persist your settings.
 ---
 
 That's all she wrote!
+
+
