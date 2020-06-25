@@ -2,7 +2,7 @@
 
 ## Introduction
 Watch starter video, [Google I/O 2012 HTML5 Slide Deck](https://youtu.be/WRvECXyWj80).
-If you prefer to author in Markdown, there's also a handy [script](script/md) and examples of how.
+If you prefer to author in Markdown, there's also a handy script and examples of how in ``script/md`` folder.
 
 Support: * Chrome, FF, Safari 5.1+ * iOS 4.3+, Chrome for Android
 Technology used: * Compass/ SaSS * flexbox (slide layouts) * transitions/transforms/animations * RequireJS * window.postMessage() for speaker mode
